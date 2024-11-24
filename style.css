@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ffe958;
+}
+
+header {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    background-color: #000000;
+    border-radius: 30px;
+}
+h2{
+    text-align: center;
+}
+
+p {
+    margin: 30px;
+}
+
+
+img {
+    margin: 30px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: black;
+}
